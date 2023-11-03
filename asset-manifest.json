@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Wedding-Page/static/css/main.772af757.css",
+    "main.js": "/Wedding-Page/static/js/main.e1e19cde.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/Wedding-Page/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/img1.jpg": "/Wedding-Page/static/media/img1.3b7e23365c06eb410cdd.jpg",
+    "index.html": "/Wedding-Page/index.html",
+    "main.772af757.css.map": "/Wedding-Page/static/css/main.772af757.css.map",
+    "main.e1e19cde.js.map": "/Wedding-Page/static/js/main.e1e19cde.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/Wedding-Page/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.772af757.css",
+    "static/js/main.e1e19cde.js"
+  ]
+}
