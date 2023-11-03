@@ -13,9 +13,10 @@ body {
 .ballet-font {
   padding-top: 10px;
   font-family: 'Ballet', cursive;
-  font-size: 0.9rem;
+  font-size: 0.8rem;
 }
 
 .img1{
   max-width: 400px;
+  margin-top: 10px;
 }
