@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  height: 100vh;
+  font-family: 'Cormorant', serif;
+  text-align: center;
+  background-color: rgb(183, 151, 124);
+}
+
+/* name special font */
+.ballet-font {
+  padding-top: 10px;
+  font-family: 'Ballet', cursive;
+  font-size: 0.9rem;
+}
+
+.img1{
+  max-width: 400px;
+}
