@@ -1,20 +1,30 @@
 {
   "files": {
-    "main.css": "/Wedding-Page/static/css/main.995ea7ed.css",
-    "main.js": "/Wedding-Page/static/js/main.6b4aae9c.js",
+    "main.css": "/Wedding-Page/static/css/main.1f4a9ed1.css",
+    "main.js": "/Wedding-Page/static/js/main.9e09556a.js",
     "static/js/787.c4e7f8f9.chunk.js": "/Wedding-Page/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/SS9.jpg": "/Wedding-Page/static/media/SS9.aaf33a0e58b44db41062.jpg",
+    "static/media/SS3.jpg": "/Wedding-Page/static/media/SS3.1e73040ff3cff7e4e9f5.jpg",
+    "static/media/SS7.jpg": "/Wedding-Page/static/media/SS7.c909996ef9b1e457554f.jpg",
     "static/media/Dat1.jpg": "/Wedding-Page/static/media/Dat1.f1ad98e79f2c9ca17483.jpg",
     "static/media/Dat2.jpg": "/Wedding-Page/static/media/Dat2.fdad8164567a58035d88.jpg",
+    "static/media/SS2.jpg": "/Wedding-Page/static/media/SS2.29bc4130534338ae8176.jpg",
+    "static/media/SS5.jpg": "/Wedding-Page/static/media/SS5.c04533e9e6cffbd0bbd9.jpg",
     "static/media/img1.jpg": "/Wedding-Page/static/media/img1.3b7e23365c06eb410cdd.jpg",
     "static/media/Nhung1.jpg": "/Wedding-Page/static/media/Nhung1.37632e12544447a81802.jpg",
+    "static/media/SS1.jpg": "/Wedding-Page/static/media/SS1.7a39d4bd02813dff01c6.jpg",
+    "static/media/SS4.jpg": "/Wedding-Page/static/media/SS4.966e8ef1f5c8a0b708f5.jpg",
+    "static/media/SS8.jpg": "/Wedding-Page/static/media/SS8.f3da40765c3de3b29047.jpg",
     "static/media/Nhung2.jpg": "/Wedding-Page/static/media/Nhung2.4d2c30a9dc8a75f5ba04.jpg",
+    "static/media/SS10.jpg": "/Wedding-Page/static/media/SS10.6b892a3e05c798fc1854.jpg",
+    "static/media/SS6.jpg": "/Wedding-Page/static/media/SS6.d9f72cc915562e3af2e7.jpg",
     "index.html": "/Wedding-Page/index.html",
-    "main.995ea7ed.css.map": "/Wedding-Page/static/css/main.995ea7ed.css.map",
-    "main.6b4aae9c.js.map": "/Wedding-Page/static/js/main.6b4aae9c.js.map",
+    "main.1f4a9ed1.css.map": "/Wedding-Page/static/css/main.1f4a9ed1.css.map",
+    "main.9e09556a.js.map": "/Wedding-Page/static/js/main.9e09556a.js.map",
     "787.c4e7f8f9.chunk.js.map": "/Wedding-Page/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.995ea7ed.css",
-    "static/js/main.6b4aae9c.js"
+    "static/css/main.1f4a9ed1.css",
+    "static/js/main.9e09556a.js"
   ]
 }
