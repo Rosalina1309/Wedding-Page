@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Wedding-Page/static/css/main.bb33b38e.css",
-    "main.js": "/Wedding-Page/static/js/main.4bc836cf.js",
+    "main.css": "/Wedding-Page/static/css/main.c38f7d11.css",
+    "main.js": "/Wedding-Page/static/js/main.2b522afd.js",
     "static/js/787.c4e7f8f9.chunk.js": "/Wedding-Page/static/js/787.c4e7f8f9.chunk.js",
     "static/media/SS9.jpg": "/Wedding-Page/static/media/SS9.aaf33a0e58b44db41062.jpg",
     "static/media/SS3.jpg": "/Wedding-Page/static/media/SS3.1e73040ff3cff7e4e9f5.jpg",
@@ -22,12 +22,12 @@
     "static/media/pink-open.png": "/Wedding-Page/static/media/pink-open.90b815dae32d31c45637.png",
     "static/media/bubble-pink.png": "/Wedding-Page/static/media/bubble-pink.e3ee1baa99b699d34a84.png",
     "index.html": "/Wedding-Page/index.html",
-    "main.bb33b38e.css.map": "/Wedding-Page/static/css/main.bb33b38e.css.map",
-    "main.4bc836cf.js.map": "/Wedding-Page/static/js/main.4bc836cf.js.map",
+    "main.c38f7d11.css.map": "/Wedding-Page/static/css/main.c38f7d11.css.map",
+    "main.2b522afd.js.map": "/Wedding-Page/static/js/main.2b522afd.js.map",
     "787.c4e7f8f9.chunk.js.map": "/Wedding-Page/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bb33b38e.css",
-    "static/js/main.4bc836cf.js"
+    "static/css/main.c38f7d11.css",
+    "static/js/main.2b522afd.js"
   ]
 }
