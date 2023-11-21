@@ -1,22 +1,42 @@
+/* Add this CSS to your existing stylesheet */
+
+:root {
+  --white: white;
+  --mild-beige: #fa98a7;
+  --mild-coffee: #BA8E7A;
+  --mild-pink: rgb(220, 155, 166);
+  --skin-beige: #D7A184;
+  --sage: #66796B;
+  --sand: #D4C2AD;
+  --coffee: rgb(100, 56, 5);
+  --peach: #f7b3b3;
+  --pastel-plum: #df9aa1;
+}
+
 * {
   margin: 0;
   padding: 0;
 }
+
 body {
+  line-height: 1.5;
   height: 100vh;
-  font-family: 'Cormorant', serif;
+  font-family: 'Roboto Serif', serif;
   text-align: center;
-  background-color: rgb(183, 151, 124);
+  background-color: var(--mild-beige);
+  color: var(--coffee);
+  overflow-x: hidden;
+  background-color: var(--white);
+  background-image: linear-gradient(to bottom, var(--mild-beige), var(--white));
+  background-attachment: fixed;
 }
 
-/* name special font */
-.ballet-font {
-  padding-top: 10px;
-  font-family: 'Ballet', cursive;
-  font-size: 0.8rem;
+.gradient {
+  margin: 20px;
+  height: 2px; 
+  background: linear-gradient(90deg, rgba(78,28,0,1) 13%, rgba(249,164,172,1) 36%, rgba(247,179,179,1) 64%, rgba(255,255,255,1) 88%);
+  position: absolute;
+  width: 100%;
+  bottom: 0;
 }
 
-.img1{
-  max-width: 400px;
-  margin-top: 10px;
-}

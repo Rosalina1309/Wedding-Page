@@ -1,0 +1,121 @@
+/* invitation.css */
+
+.invitation {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  padding: 20px;
+  margin-top: 50px;
+}
+.invitation h2 {
+  padding:20px;
+}
+.envelope {
+  cursor: pointer;
+  transition: transform 0.3s ease; /* Add transition for a smoother effect */
+}
+
+.closed-envelope,
+.opened-envelope {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  transition: opacity 0.3s ease; /* Add transition for a smoother effect */
+}
+
+
+/* wedding-invitation.css */
+
+.content {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: var(--peach);
+  border: 1px solid var( --mild-coffee);
+  padding: 20px;
+  padding-bottom: 20px;
+  border-radius: 10px;
+}
+
+.invi-p1 {
+  text-align: center;
+ 
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.invi-p1 h3 {
+  font-size: 1.3rem;
+  margin: 10px 0;
+}
+
+.invi-p1 em {
+  font-style: italic;
+  margin-top: 20px;
+}
+
+.invi-p1 h1 {
+  font-size: 2.8rem;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.invi-p1 .d-n {
+  font-family: 'Ballet', cursive;
+  font-size: 40px;
+}
+
+.invi-p2 {
+  text-align: center;
+  background-color: var(--pastel-plum);
+  padding: 10px;
+  border-radius: 10px;
+  border: 1px solid var(--mild-coffee);
+}
+
+.invi-p2 p,
+.invi-p2 h2,
+.invi-p2 h3 {
+  margin: 5px 0;
+  font-size: 1rem;
+}
+
+.invi-p2 h2 {
+  font-size: 1.5rem;
+}
+
+.invi-p2 h3 {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.invi-p2 h2,
+.invi-p2 h3 {
+  color: #fff;
+}
+
+.invi-p2 h3 {
+  font-size: 1rem;
+  font-weight: normal;
+}
+
+/* Your existing CSS */
+.envelope-content {
+  position: relative;
+}
+
+.envelope p {
+  position: absolute;
+  top: 38%; 
+  left: 50%; 
+  transform: translate(-50%, -50%);
+  margin: 0;
+  font-size: 1.2rem; 
+  font-weight:600;
+  color: var(--coffee); 
+  text-align: center; 
+}

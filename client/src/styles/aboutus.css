@@ -1,0 +1,14 @@
+.about-us {
+  margin: 30px;
+}
+.about-us h2 {
+  padding: 20px;
+}
+.about-us p {
+  margin-bottom: 15px; /* Adjust this value based on the desired space between paragraphs */
+  background-color: rgb(255, 210, 210);
+  color: var(--coffee);
+  border: 1px solid var(--white);
+  border-radius: 10px;
+  padding: 10px;
+}

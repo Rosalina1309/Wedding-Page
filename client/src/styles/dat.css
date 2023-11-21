@@ -1,0 +1,26 @@
+/* Add this to your CSS file */
+.dat {
+  padding: 20px;
+}
+
+.dat p {
+  margin: 20px 0; /* Adjust margin as needed */
+}
+
+.img1 {
+  border-radius: 10px;
+  touch-action: none;
+}
+
+/* Additional styles for the container div */
+.dat > div {
+  overflow: hidden;
+  width: 70vw;
+  position: relative;
+  margin: 0 auto;
+}
+
+.dat > div > div {
+  display: flex;
+  transition: transform 0.3s ease;
+}

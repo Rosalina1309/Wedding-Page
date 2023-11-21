@@ -1,0 +1,26 @@
+/* Add this to your CSS file */
+.nhung {
+  padding: 20px;
+}
+
+.nhung p {
+  margin: 20px 0; /* Adjust margin as needed */
+}
+
+.img1 {
+  border-radius: 10px;
+  touch-action: none;
+}
+
+/* Additional styles for the container div */
+.nhung > div {
+  overflow: hidden;
+  width: 70vw;
+  position: relative;
+  margin: 0 auto;
+}
+
+.nhung > div > div {
+  display: flex;
+  transition: transform 0.3s ease;
+}

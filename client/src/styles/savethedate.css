@@ -1,0 +1,22 @@
+.countdown {
+  margin: 20px;
+  font-size: 1.2rem;
+  color:var(--coffee);
+  background-color: #ffd2d2;
+  text-shadow:  0 0 10px var(--white), 0 0 32px var(--peach);
+  padding: 10px;
+  border: 1px solid var(--white);
+  border-radius: 10px;
+  font-weight: 800;
+}
+.countdown h2 {
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
+.countdown-clock p {
+  font-size: 1rem;
+  display: inline-flex;
+  flex-wrap: wrap;
+  margin: 10px;
+  
+}

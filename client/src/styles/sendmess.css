@@ -1,0 +1,29 @@
+/* sendmess.css */
+
+.send-message {
+  max-width: 600px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 20px;
+ 
+}
+
+.send-message h2 {
+  font-size: 24px;
+  margin: 20px;
+}
+
+.send-message a {
+  display: inline-block;
+  padding: 10px 20px;
+  color: var(--coffee);
+  text-decoration: none;
+ 
+}
+
+
+
+.love-letter {
+  max-width: 60%; /* Make the image responsive */
+  height: auto; /* Maintain aspect ratio */
+}

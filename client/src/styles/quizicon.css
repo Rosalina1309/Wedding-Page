@@ -1,0 +1,45 @@
+/* Add this CSS to your existing stylesheet or create a new one */
+
+.bubble-icon {
+  text-align: center;
+  margin-top: 20px; /* Adjust the top margin for spacing */
+}
+
+.bubble-icon h2 {
+  margin: 20px; /* Reduced bottom margin */
+  font-size: 1.5rem; /* Adjusted font size for the heading */
+}
+
+.image-container {
+  position: relative;
+  max-width: 80%; /* Adjusted max-width for the image container */
+  margin: 0 auto; /* Center the image container */
+}
+
+.pink-bubble {
+  width: 50%; /* Adjust the width of the image */
+  height: auto;
+  align-items: center;
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+
+.image-text {
+  position: absolute;
+  top: 40%; /* Adjust the vertical position of the text */
+  left: 50%; /* Adjust the horizontal position of the text */
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: var(--coffee); /* Adjust the text color */
+  font-size: 1rem; /* Adjusted font size */
+}
+
+/* Remove text decoration from the link */
+.image-text a {
+  text-decoration: none;
+  color: inherit; /* Inherit the color from the parent */
+}
+.image-text p {
+  font-size: 1.4rem;
+  font-weight: 800;
+}
